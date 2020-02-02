@@ -1,0 +1,22 @@
+{
+  "name": "omglist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack",
+    "handleJson": "webpack src/testdata.json build/lipstick.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zrender": "^4.2.0"
+  },
+  "devDependencies": {
+    "json-loader": "^0.5.7",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}

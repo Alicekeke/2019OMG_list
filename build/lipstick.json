@@ -1,0 +1,441 @@
+{
+  "brands": [
+    {
+    "name": "YSL",
+    "series": [
+      {
+      "name": "圆管",
+      "lipsticks":[
+        {
+        "id": "86",
+        "color":"175,59,72",
+        "description": "我的妈呀！请在我的屏幕上打满买字！",
+        "name":"圆管86"
+      }, {
+        "id": "80",
+        "color":"156,19,28",
+        "description": "买买买买买太好看了",
+        "name":"圆管80"
+      }, {
+        "id": "84",
+        "color":"180,6,55",
+        "description": "皮肤白买",
+        "name":"圆管84"
+      },  {
+        "id": "85",
+        "color":"157,6,41",
+        "description": "皮肤黑买，显白",
+        "name":"圆管85"
+      }
+    ]
+    },
+      {
+        "name": "小金条",
+        "lipsticks":[
+           {
+          "id": "21",
+          "color":"157,36,48",
+          "description": "一定要买！好看！火到不行！",
+          "name":"小金条21"
+        }, {
+          "id": "25",
+          "color":"119,37,75",
+          "description": "有星空！",
+          "name":"小金条25"
+        }
+      ]
+    }]
+  }, {
+    "name": "Armani",
+    "series": [
+      {
+      "name": "红管唇釉",
+      "lipsticks":[
+        {
+        "id": "405",
+        "color":"159,38,12",
+        "description": "番茄色超好看显白",
+        "name":"红管唇釉405"
+      }, {
+        "id": "400",
+        "color":"162,25,15",
+        "description": "高级色",
+        "name":"红管唇釉400"
+      }, {
+        "id": "509",
+        "color":"135,31,35",
+        "description": "神仙玫瑰色",
+        "name":"红管唇釉509"
+      },  {
+        "id": "402",
+        "color":"230,32,38",
+        "description": "血橙调超嫩",
+        "name":"红管唇釉402"
+      },  {
+        "id": "501",
+        "color":"156,67,72",
+        "description": "豆沙色不挑人",
+        "name":"红管唇釉501"
+      }
+    ]
+    },
+      {
+        "name": "挚爱哑光黑红管口红",
+        "lipsticks":[
+           {
+          "id": "400",
+          "color":"125,4,10",
+          "description": "好看到发抖！",
+          "name":"挚爱哑光400"
+        }, {
+          "id": "502",
+          "color":"190,95,105",
+          "description": "高级！性冷淡风",
+          "name":"挚爱哑光502"
+        }, {
+          "id": "506",
+          "color":"142,2,39",
+          "description": "黄皮福音",
+          "name":"挚爱哑光506"
+        }
+      ]
+    }]
+  }, 
+  {
+    "name": "MAC",
+    "series": [
+      {
+      "name": "柔感哑光唇膏",
+      "lipsticks":[
+      {
+        "id": "001",
+        "color":"179,24,29",
+        "description": "必买色！绝对好看！",
+        "name":"russian red"
+      }, 
+      {
+        "id": "002",
+        "color":"155,56,30",
+        "description": "有货就一定要买",
+        "name":"marrakesh"
+      },
+      {
+        "id": "003",
+        "color":"175, 0, 9",
+        "description": "万年老网红",
+        "name":"ruby woo"
+      },
+      {
+        "id": "624",
+        "color":"138, 44, 36",
+        "description": "炸裂色，薄涂真美",
+        "name":"studded kiss"
+      }
+     ]
+    }, {
+      "name": "新品尤雾弹唇膏",
+      "lipsticks":[
+        {
+          "id": "004",
+          "color":"175, 56, 50",
+          "description": "泫雅色，涂上去心情会很好，因为是巧克力味的",
+          "name":"DEVOTED TO CHILI"
+        }
+      ]
+    }, 
+    {
+      "name": "润采诱光唇膏",
+      "lipsticks":[
+          {
+            "id": "010",
+            "color":"128,52,80",
+            "description": "玫瑰李子红",
+            "name":"party line"
+          }, {
+            "id": "011",
+            "color":"170,91,81",
+            "description": "带细闪的神仙颜色！",
+            "name":"fresh moroccan"
+          }, {
+            "id": "012",
+            "color":"215,82,61",
+            "description": "元气女生必备！",
+            "name":"so chaud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TF",
+    "series": [
+      {
+        "name": "TF黑管",
+        "lipsticks":[
+            {
+              "id": "01",
+              "color":"126,50,60",
+              "description": "林志玲色，黄皮慎入",
+              "name":"黑管01"
+            }, {
+              "id": "08",
+              "color":"239,79,91",
+              "description": "好看到哭",
+              "name":"黑管08"
+            }, {
+              "id": "88",
+              "color":"215,112,116",
+              "description": "鲜嫩欲滴，有细闪",
+              "name":" HIRO"
+            }, {
+              "id": "69",
+              "color":"226,110,131",
+              "description": "王菲色一定要买！",
+              "name":" NIGHT MAUVE 暗夜缠绵"
+            }, {
+              "id": "38",
+              "color":"167,49,71",
+              "description": "超级高级",
+              "name":"黑管38"
+            }, {
+              "id": "16",
+              "color":"170, 41, 36",
+              "description": "秒变少女！",
+              "name":" SCARLET ROUGE"
+            }
+          ]
+      }, {
+        "name": "TF白细管",
+        "lipsticks":[
+          {
+            "id": "07",
+            "color":"180,19,17",
+            "description": "珊瑚血橙超显嫩",
+            "name":"TF白细管07"
+          }, {
+            "id": "03",
+            "color":"166,63,64",
+            "description": "显嫩，素颜可以涂的裸色",
+            "name":"TF白细管03"
+          }, {
+            "id": "08",
+            "color":"153,12,29",
+            "description": "玫紫调很显白",
+            "name":"TF白细管08"
+          }
+        ]
+      }, {
+        "name":"TF白管",
+        "lipsticks":[
+          {
+            "id": "25",
+            "color":"184,33,64",
+            "description": "就是买它",
+            "name":"NAOMI"
+          },  {
+            "id": "22",
+            "color":"201,79,87",
+            "description": "谁涂都好看",
+            "name":"GRACE"
+          },  {
+            "id": "25",
+            "color":"215, 79, 88",
+            "description": "一秒回春，超级显嫩！",
+            "name":"SCARLETT"
+          },  {
+            "id": "06",
+            "color":"243,85,57",
+            "description": "超好看，洋气！有气质！",
+            "name":"ONDINE"
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "娇兰",
+    "series":[
+      {
+        "name": "臻彩宝石唇膏",
+        "lipsticks":[
+          {
+            "id": "23",
+            "color":"147,58,50",
+            "description": "好好看哦~ 车厘子色",
+            "name":"娇兰宝石23"
+          },  {
+            "id": "03",
+            "color":"172,95,85",
+            "description": "土豆沙，高级！",
+            "name":"娇兰宝石03"
+          },  {
+            "id": "25",
+            "color":"130,17,23",
+            "description": "巨正的正红色",
+            "name":"娇兰宝石25"
+          },  {
+            "id": "N091",
+            "color":"138, 27, 33",
+            "description": "好看到死掉！哦断货了 你们买不到了",
+            "name":"娇兰宝石N091"
+          }, {
+            "id": "N75",
+            "color":"149, 33, 68",
+            "description": "太好看了！买它！",
+            "name":"娇兰宝石N75"
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "Hour glass",
+    "series":[
+      {
+        "name":"黄金烟管口红",
+        "lipsticks":[
+          {
+            "id": "",
+            "color":"68,28,18",
+            "description": "我的妈呀！巨洋气！",
+            "name":"l've been"
+          }, {
+            "id": "",
+            "color":"133,4,8",
+            "description": "红毯色超显白正红色",
+            "name":"l crave"
+          }, {
+            "id": "",
+            "color":"78,20,16",
+            "description": "烂草莓魔鬼色",
+            "name":"At night"
+          }, {
+            "id": "",
+            "color":"76,17,23",
+            "description": "浆果色",
+            "name":"l can't live without"
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "Urban Decay",
+    "series":[
+      {
+        "name":"VICE lipstick",
+        "lipsticks":[
+          {
+            "id": "",
+            "color":"134,30,57",
+            "description": "亮肤紫红色",
+            "name":"love drunk"
+          }, {
+            "id": "",
+            "color":"146,25,42",
+            "description": "超模色",
+            "name":"Mrs.Mia wallace"
+          }, {
+            "id": "",
+            "color":"95,30,34",
+            "description": "不挑人",
+            "name":"hitch hike"
+          }, {
+            "id": "",
+            "color":"155,16,33",
+            "description": "很显白",
+            "name":"bad blood"
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "Charlotte Tilbury",
+    "series":[
+      {
+        "name":"CT摩登物感唇膏",
+        "lipsticks":[
+          {
+            "id": "",
+            "color":"146,5,21",
+            "description": "紫调正红很显白",
+            "name":"carpet red"
+          }, {
+            "id": "",
+            "color":"173,37,51",
+            "description": "紫调浆果色",
+            "name":"love liberty"
+          }, {
+            "id": "",
+            "color":"165,41,39",
+            "description": "买它绝对好看！我也吹爆",
+            "name":"walk of shame"
+          }, {
+            "id": "",
+            "color":"123,9,5",
+            "description": "超性感小s色",
+            "name":"so marilyn"
+          }, {
+            "id": "",
+            "color":"227,80,90",
+            "description": "温温柔柔的粉",
+            "name":"amazing grace"
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "Burberry",
+    "series":[
+      {
+        "name":"丝绒雾彩液体唇膏",
+        "lipsticks":[
+          {
+            "id": "41",
+            "color":"202,44,52",
+            "description": "超经典的红",
+            "name":"burberry唇釉41"
+          }, {
+            "id": "49",
+            "color":"132,49,75",
+            "description": "梅子果酱",
+            "name":"burberry唇釉49"
+          }, {
+            "id": "53",
+            "color":"127,60,81",
+            "description": "招牌牛血色，超美！",
+            "name":"burberry唇釉53"
+          }
+        ]
+      }
+    ]
+  }, {
+    "name": "sisley",
+    "series":[
+      {
+        "name":"希思黎魅惑口红",
+        "lipsticks":[
+          {
+            "id": "43",
+            "color":"171,38,38",
+            "description": "amazing色",
+            "name":"卡普里岛"
+          }, {
+            "id": "13",
+            "color":"169,91,69",
+            "description": "洋气！",
+            "name":"埃尔多拉多"
+          }, {
+            "id": "41",
+            "color":"197,42,20",
+            "description": "招牌牛血色，超美！",
+            "name":"迈阿密"
+          }, {
+            "id": "12",
+            "color":"179,64,43",
+            "description": "裸杏色耐看 偏橘奶茶色",
+            "name":"巴厘岛"
+          }
+        ]
+      }
+    ]
+  }
+  ] 
+}
