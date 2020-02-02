@@ -22,17 +22,14 @@ function init() {
 
 }
 
-// 规格化数据
 function initLipstickData(rawData) {
   lipstickData = []
   let bsize = rawData.brands.length
   for (let bid = 0; bid < bsize; ++bid) {
     let brand = rawData.brands[bid]
-    //每个系列下对象 
     for (let sid = 0, ssize = brand.series.length; sid < ssize; ++sid) {
       let lipsticks = brand.series[sid].lipsticks
       lipstickData = lipstickData.concat(lipsticks)
-      // 单个口红对象
       for (let lid = 0, lsize = lipsticks.length; lid < lsize; ++lid) {
         lipsticks[lid].series = brand.series[sid]
         lipsticks[lid].brand = brand
@@ -41,7 +38,6 @@ function initLipstickData(rawData) {
   }
 }
 
-// 初始化个体 排列方形图案
 function initPoint(lipstickData) {
  for (let i = 0; i < lipstickData.length; ++i) { 
   let line = Math.ceil((i+1) / 10)
@@ -80,18 +76,13 @@ function initPoint(lipstickData) {
   zr.add(group)
   
   group.lipstick = lipstickData[i]
-  // 挂载原型上 防止丢失
   group.lipstick.group = group
  }
  
  zr.on('mousemove', hover)
-//  click颜色替换到中间
-//  zr.on('click', function () {
-
-//  })
 }
 
-var lastHighLightGroup = null;   //上一个重点强调
+var lastHighLightGroup = null;  
 var notNormalGroups = [];
 
 function hover(el) {
@@ -117,7 +108,6 @@ function hover(el) {
     lastHighLightGroup = null;
 }
 }
-// hover到强调项
 function hightlight(group) {
   undownplay(group)
   let point = group.childAt(0)
@@ -154,7 +144,6 @@ function hightlight(group) {
   updateBubble(group.lipstick)
 }
 
-// 普通项
 function normal(groups) {
   for (var i = 0; i < groups.length; ++i) {
       var point = groups[i].childAt(0);
@@ -192,7 +181,6 @@ function normal(groups) {
   }
 }
 
-// 没有hover到有效项时
 function undownplay(group) {
   var point = group.childAt(0);
   point.stopAnimation(true);
