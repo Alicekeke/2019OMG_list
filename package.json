@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zrender": "^4.2.0"
+    "zrender": "^5.2.1"
   },
   "devDependencies": {
     "json-loader": "^0.5.7",
